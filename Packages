@@ -43,3 +43,19 @@ SHA256: b5fe48280f9c69f1f05a6248ead753c00723a7e6d3b4e2604281ad62d8e63e7d
 Section: Tweaks
 Depiction: https://saadbasel2020.github.io/saads-w-repo/	Depiction: https://www.google.com
 Name: Filza File Manager 64-bit
+
+
+Package: com.jontelang.snapper2.packix
+Version: 2.4.2
+Architecture: iphoneos-arm
+Maintainer: saadsw
+Depends:  mobilesubstrate, firmware (>= 9.0) 	
+Conflicts: org.bigboss.datameter	
+Filename: debs/https://github.com/saadbasel2020/saads-w-repo-/blob/master/debs/com.tigisoftware.filza64bit_3.7.6-4_iphoneos-arm.deb
+Size: 1232
+MD5sum: c3880b0357ae9945edac0193e5057e5a
+SHA1: eedd91e1c7bebd0284b1abbd2846654c4c1829c7
+SHA256: e06f2379d4267374542d73ebdb877c4d0d68e00f84565d1a23b038e2958f1a06
+Section: Tweaks
+Depiction: https://saadbasel2020.github.io/saads-w-repo/	Depiction: https://www.google.com
+Name: snapper2
