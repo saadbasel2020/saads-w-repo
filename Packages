@@ -14,7 +14,7 @@ Depiction: https://saadbasel2020.github.io/saads-w-repo/	Depiction: https://www.
 Name: xeninfo
 
 Package: me.sa3odka.shownumber
-Version: 0.1
+Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: saadsw
 Depends:  mobilesubstrate, firmware (>= 9.0) 	
