@@ -2,14 +2,14 @@
 Package: com.junesiphone.xeninfo
 Version: 2.2.9
 Architecture: iphoneos-arm
-Maintainer: x7mii	
+Maintainer: saadsw
 Depends:  mobilesubstrate, firmware (>= 9.0) 	
 Conflicts: org.bigboss.datameter	
-Filename: debs/com.yourepo.mohadu31.xeninfo_2.2.6_iphoneos-arm.deb	
+Filename: debs/com.yourepo.mohadu31.xeninfo_2.2.6_iphoneos-arm.deb
 Size: 83072	
 MD5sum: a00806fa8ef6a0b26b72328706eb1626	
 SHA1: 3bf2314061d2269ad445c86c8c454a324202bc71	
 SHA256: dcf5261ca003d5907ac3fb0ff542ca9146b0c39bf5155d8077378e3e84092d7e	
 Section: Tweaks	Section: Tweaks
-Depiction: https://saadbasel2020.github.io/saads-w-repo/	Depiction: https://repo.packix.com/package/com.ioscreatix.littlex/
+Depiction: https://saadbasel2020.github.io/saads-w-repo/	Depiction: https://www.google.com
 Name: xeninfo
