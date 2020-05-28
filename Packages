@@ -27,3 +27,19 @@ SHA256: 8b92f4f8807758370d05eab2365b2c552506500c14e3f6b916aa71ce26836562
 Section: Tweaks
 Depiction: https://saadbasel2020.github.io/saads-w-repo/	Depiction: https://www.google.com
 Name: shownumber
+
+
+Package: com.tigisoftware.filza64bit
+Version: 3.7.6-4
+Architecture: iphoneos-arm
+Maintainer: saadsw
+Depends:  mobilesubstrate, firmware (>= 9.0) 	
+Conflicts: org.bigboss.datameter	
+Filename: debs/https://github.com/saadbasel2020/saads-w-repo-/blob/master/debs/com.tigisoftware.filza64bit_3.7.6-4_iphoneos-arm.deb
+Size: 8614538
+MD5sum: 3f6305e1c2d401f68ea9fb0b4f6311bb
+SHA1: c02f901397f9a8d429753f8487be2053eb810005
+SHA256: b5fe48280f9c69f1f05a6248ead753c00723a7e6d3b4e2604281ad62d8e63e7d
+Section: Tweaks
+Depiction: https://saadbasel2020.github.io/saads-w-repo/	Depiction: https://www.google.com
+Name: Filza File Manager 64-bit
