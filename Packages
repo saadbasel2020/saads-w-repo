@@ -13,3 +13,18 @@ SHA256: dcf5261ca003d5907ac3fb0ff542ca9146b0c39bf5155d8077378e3e84092d7e
 Section: Tweaks	Section: Tweaks
 Depiction: https://saadbasel2020.github.io/saads-w-repo/	Depiction: https://www.google.com
 Name: xeninfo
+
+Package: me.sa3odka.shownumber
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: saadsw
+Depends:  mobilesubstrate, firmware (>= 9.0) 	
+Conflicts: org.bigboss.datameter	
+Filename: debs/me.sa3odka.shownumber_1.0_iphoneos-arm.deb
+Size: 200
+MD5sum: 81779c62760047cb9d4953acf7ce9956
+SHA1: 	71895ed1f942e4e16f1c1ea0a3e349d474b6008f
+SHA256: 8b92f4f8807758370d05eab2365b2c552506500c14e3f6b916aa71ce26836562
+Section: Tweaks
+Depiction: https://saadbasel2020.github.io/saads-w-repo/	Depiction: https://www.google.com
+Name: shownumber
